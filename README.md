@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tsedhondup
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning full-stack web development 
 
 <!---
 Tsedhondup/Tsedhondup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
