@@ -77,7 +77,7 @@
           alt="express"
           width="40"
           height="40"
-          style="color: white"
+          color="white"
         />
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
