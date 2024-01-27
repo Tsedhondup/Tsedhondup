@@ -75,8 +75,8 @@
         <img
           src="https://devsdash.com/assets/content-images/67182_1646817338.svg"
           alt="express"
-          width="40"
-          height="40"
+          width="60"
+          height="60"
         />
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
