@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <p align="left">
+ <p align="left" style="background-color: white">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -77,7 +77,6 @@
           alt="express"
           width="40"
           height="40"
-          color="white"
         />
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
