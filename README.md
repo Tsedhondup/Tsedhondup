@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [job-application-tracker-api](https://github.com/Tsedhondup/job-application-tracker-api.git)
 
-- 🌱 Software Engineering Graduate, BrainStation,Toronto learning **full-stack web development**
+- 🌱 Software Engineering Graduate, BrainStation, Toronto
 
 - 📫 How to reach me **tyddhondup88@gmail.com**
 
