@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/tsering dhondup" target="blank"><img src="https://img.shields.io/twitter/follow/tsering dhondup?logo=twitter&style=for-the-badge" alt="tsering dhondup" /></a> </p>
 
-- 🔭 I’m currently working on my [Portfolio Website](https://github.com/Tsedhondup/tsering-dhondup)
 
 - 🌱 Software Engineering Graduate, BrainStation, Toronto
 
